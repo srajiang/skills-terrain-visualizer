@@ -31,13 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Technologies and Technical Challenges
 
-This project is built on a MongoDB, Mongoose, Express backend, with a React / Redux frontend and 3Js for data visualization. I used React Hooks, Styled Components and an overall componentized structure throughout this project.
-
-### A Progressive Web App
-PWAs allow for features including push notification, home screen icon, full-screen and offline first functionality, providing a native-like experience for the user.
-
-### Mobile-First Design
-A design strategy where you start sketching and prototyping the smallest screen first and work your way up to larger screens. Essentially, it’s about delivering the right user experience to the right device.
+This project will be built on a MongoDB, Mongoose, Express backend, with a React / Redux frontend and 3Js for data visualization. I use React Hooks, Styled Components and an overall componentized structure throughout this project.
 
 ### Technical Challenges
 
