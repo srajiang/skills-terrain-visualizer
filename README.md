@@ -27,9 +27,9 @@ As users journal or add entries, the map grows / changes. Possible use cases:
 ### Map relationships between regions 
 
 * Actions: 
- * User can drag regions around to indicate relatedness, proximity in region.
- * User can overlap / merge regions
- * User can hold and drag down to increase the size of a region to indicate strength, depth, etc.
+  * User can drag regions around to indicate relatedness, proximity in region.
+  * User can overlap / merge regions
+  * User can hold and drag down to increase the size of a region to indicate strength, depth, etc.
 
 * Save the relationships as a 2D graph
 
