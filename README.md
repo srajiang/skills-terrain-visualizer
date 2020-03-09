@@ -12,7 +12,6 @@ As users journal or add entries, the map grows / changes. Possible use cases:
   * Map out relationships between your skills, interests, hobbies
   * Chart out areas of growth to accomplish a goal
   * Map out a topic and chart out relationships between sub-areas of a topic
-  * Reflect on academic studies and relationships between those areas
 
 ## Functionality and Features
 
