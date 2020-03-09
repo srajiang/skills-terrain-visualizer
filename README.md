@@ -26,18 +26,19 @@ As users journal or add entries, the map grows / changes. Possible use cases:
   
 ### Map relationships between regions 
 
-* User can move regions around to indicate relatedness, proximity in region. 
-* User can increase the size of a region to indicate strength, depth, etc.
-* User can overlap / merge regions
+* Actions: 
+ * User can drag regions around to indicate relatedness, proximity in region.
+ * User can overlap / merge regions
+ * User can hold and drag down to increase the size of a region to indicate strength, depth, etc.
 
 * Save the relationships as a 2D graph
 
 ### Visualize in 3D landscape 
 
 * User can see these regions mapped out in a 3D terrain where:
-* * Broad distances represent relatedness
-* * size represents depth, strength
-* * Merging, overlapping regions share a common color. 
+  * Broad distances represent relatedness
+  * size represents depth, strength
+  * Merging, overlapping regions share a common color. 
 
 ### Journal / document an event in the region. 
 
