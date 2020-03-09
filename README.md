@@ -3,31 +3,45 @@
 ### [Try out skills terrain journal!]()
 
 ## Background and Overview
-This is a data visualization prototype experience where users to create their own skills terrain. A users areas of interest, skills and abilities form regions on a plane which can be dragged around to form relationships. Depth of experience, exploration are shown on 3D plane: 
+This is a data visualization prototype experience where users to create their own skills terrain. A users areas of interest, skills and abilities form regions on a 3dimensional landscape representing relationships and degree of exploration.
 
 * Areas more extensively explored are higher in elevation / more resolved
 * Areas of broad interest/ nascent exploration are broader in elevation / less resolved.
 
-As users journal or add entries, the map grows / changes. This can be embedded in a user's portfolio site, or used by organizations or groups organization to show relationships in terrain across and organization.
+As users journal or add entries, the map grows / changes. Possible use cases: 
+  * Shareable individual skills and competencies mapping
+  * Organizational representational tool
+  * Group activity interest breadth and depth
 
 ## Functionality and Features
 
 ## Game Screens
-### Chart out regions (skills, competencies) 
+### Chart out "regions" (skills, competencies) 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+* Create an interest area (or select from a list?) and add to a list. E.g.:
+  * Map out relationships between your skills, interests, hobbies
+  * Chart out areas of growth to accomplish a goal
+  * Reflect on your academic studies and relationships between those areas
+  * Chart out relationships between sub-areas of a topic
+  
 ### Map relationships between regions 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+* User can move regions around to indicate relatedness, proximity in region. 
+* User can increase the size of a region to indicate strength, depth, etc.
+* User can overlap / merge regions
+
+* Save the relationships as a 2D graph
 
 ### Visualize in 3D landscape 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+* User can see these regions mapped out in a 3D terrain where:
+* * Broad distances represent relatedness
+* * size represents depth, strength
+* * Merging, overlapping regions share a common color. 
 
-### Journal / document an event in the region
+### Journal / document an event in the region. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+* User can visit the map 
 
 ## Technologies and Technical Challenges
 
