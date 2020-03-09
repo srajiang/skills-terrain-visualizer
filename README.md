@@ -3,7 +3,7 @@
 ### [Try out Topograph Me!]()
 
 ## Background and Overview
-Topograph Me is an app which allows users to create their own skills terrain journal. Users log and document areas of interest skills which they have and the application helps them map relationships and depth of experience onto a 3D plane, like a elevation on a map. 
+Prototype for an app which allows users to create their own skills terrain journal. Users log and document areas of interest skills which they have and the application helps them map relationships and depth of experience onto a 3D plane, like a elevation on a map. 
 
 The areas where a person has worked more extensively or has a deeper skillset for are higher in elevation, areas of broad interest or exploration are broad and open. The map created can be an object for self-representation, discussion, or sharing.  
 
