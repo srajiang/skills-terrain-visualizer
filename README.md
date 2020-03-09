@@ -9,9 +9,10 @@ This is a data visualization prototype experience where users to create their ow
 * Areas of broad interest/ nascent exploration are broader in elevation / less resolved.
 
 As users journal or add entries, the map grows / changes. Possible use cases: 
-  * Shareable individual skills and competencies mapping
-  * Organizational representational tool
-  * Group activity interest breadth and depth
+  * Map out relationships between your skills, interests, hobbies
+  * Chart out areas of growth to accomplish a goal
+  * Map out a topic and chart out relationships between sub-areas of a topic
+  * Reflect on academic studies and relationships between those areas
 
 ## Functionality and Features
 
@@ -37,7 +38,7 @@ As users journal or add entries, the map grows / changes. Possible use cases:
 
 * User can see these regions mapped out in a 3D terrain where:
   * Broad distances represent relatedness
-  * size represents depth, strength
+  * Size represents depth, strength
   * Merging, overlapping regions share a common color. 
 
 ### Journal / document an event in the region. 
