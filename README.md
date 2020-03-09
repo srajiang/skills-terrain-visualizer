@@ -3,12 +3,12 @@
 ### [Try out skills terrain journal!]()
 
 ## Background and Overview
-This is a prototype app which allows users to create their own skills terrain journal. A users areas of interest, skills and abilities form regions on a plane which can be dragged around to form relationships. Depth of experience, exploration are shown on 3D plane: 
+This is a data visualization prototype experience where users to create their own skills terrain. A users areas of interest, skills and abilities form regions on a plane which can be dragged around to form relationships. Depth of experience, exploration are shown on 3D plane: 
 
 * Areas more extensively explored are higher in elevation / more resolved
 * Areas of broad interest/ nascent exploration are broader in elevation / less resolved.
 
-As users journal or add entries, the map grows / changes.
+As users journal or add entries, the map grows / changes. This can be embedded in a user's portfolio site, or used by organizations or groups organization to show relationships in terrain across and organization.
 
 ## Functionality and Features
 
