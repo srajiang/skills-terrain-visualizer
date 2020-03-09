@@ -1,28 +1,31 @@
-# Topograph Me (wip) 
+# Skills Terrain Journal (wip) 
 
-### [Try out Topograph Me!]()
+### [Try out skills terrain journal!]()
 
 ## Background and Overview
-This is a prototype app which allows users to create their own skills terrain journal. Users log and document areas of interest skills which they have and the application helps them map relationships and depth of experience onto a 3D plane, like a elevation on a map. 
+This is a prototype app which allows users to create their own skills terrain journal. A users areas of interest, skills and abilities form regions on a plane which can be dragged around to form relationships. Depth of experience, exploration are shown on 3D plane: 
 
-The areas where a person has worked more extensively or has a deeper skillset for are higher in elevation, areas of broad interest or exploration are broad and open. The map created can be an object for self-representation, discussion, or sharing.  
+* Areas more extensively explored are higher in elevation / more resolved
+* Areas of broad interest/ nascent exploration are broader in elevation / less resolved.
+
+As users journal or add entries, the map grows / changes.
 
 ## Functionality and Features
 
 ## Game Screens
-### Input skills/interests/competencies
+### Chart out regions (skills, competencies) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-### Map relationships between areas
+### Map relationships between regions 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-### Visualize in 3D landscape
+### Visualize in 3D landscape 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-### Save, share and organize topologies
+### Journal / document an event in the region
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
