@@ -3,7 +3,7 @@
 ### [Try out skills terrain journal!]()
 
 ## Background and Overview
-This is a data visualization prototype experience where users to create their own skills terrain. A users areas of interest, skills and abilities form regions on a 3dimensional landscape representing relationships and degree of exploration.
+This is a data visualization prototype experience where users to create their own skills terrain. User areas of interest, skills and abilities form regions on a 3dimensional landscape representing relationships and degree of exploration.
 
 * Areas more extensively explored are higher in elevation / more resolved
 * Areas of broad interest/ nascent exploration are broader in elevation / less resolved.
@@ -42,7 +42,7 @@ As users journal or add entries, the map grows / changes. Possible use cases:
 
 ### Journal / document an event in the region. 
 
-* User can visit the map 
+* User can visit the map and add journal entries for each region
 
 ## Technologies and Technical Challenges
 
