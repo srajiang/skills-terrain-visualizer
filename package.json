@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/srajiang/topograph-me#readme",
   "dependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.6",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
@@ -28,7 +32,12 @@
     "mongoose": "^5.9.4",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
-    "validator": "^12.2.0"
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "three": "^0.114.0",
+    "validator": "^12.2.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
