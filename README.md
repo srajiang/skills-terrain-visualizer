@@ -46,7 +46,7 @@ As users journal or add entries, the map grows / changes. Possible use cases:
 
 ## Technologies and Technical Challenges
 
-This project will be built on a MongoDB, Mongoose, Express backend, with a React / Redux frontend and 3Js for data visualization. I use React Hooks, Styled Components and an overall componentized structure throughout this project.
+This project will be built on a MongoDB, Mongoose, Express backend, with a React / Redux frontend and three.js for data visualization. React Hooks, Styled Components and an overall componentized structure throughout this project.
 
 ### Technical Challenges
 
