@@ -15,7 +15,7 @@ As users journal or add entries, the map grows / changes. Possible use cases:
 
 ## Functionality and Features
 
-## Game Screens
+## Screens
 ### Chart out "regions" (skills, competencies) 
 
 * Create an interest area (or select from a list?) and add to a list. E.g.:
