@@ -50,10 +50,4 @@ This project will be built on a MongoDB, Mongoose, Express backend, with a React
 
 ### Technical Challenges
 
-TBD
 
-- `Styled Components` lets us implement responsive and intuitive styling, and greatly reduce redundant styling work across components with shared visual themes. Additionally, we employed React Hooks extensively throughout our application components, allowing us to add stateful logic without changing or wrapping component hierarchy in "wrapper hell".
-
-- The frontend file architecture that would help us better organize our code. I employed the "duck" react-redux file structure for readability and as best-practice in case this becomes a collaborative project. 
-
-- Designed the backend database structure and API endpoints using a document-oriented (NoSQL) design principles. 
